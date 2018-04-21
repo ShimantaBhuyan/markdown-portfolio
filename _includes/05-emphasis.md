@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+I like developing **websites**. I have _freelance_ experience of 6 months and like _interacting with **clients**_.
